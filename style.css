@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    width: auto;
+}
+.div-1{
+    height: 500px;
+    /* background-color: rgb(175, 160, 140); */
+    background-image: url(https://media.istockphoto.com/id/1406077905/photo/new-house-building-at-the-construction-site.jpg?s=1024x1024&w=is&k=20&c=XDFY1_mZQXBxuItGlAS-4D0iGNp6yv-ThoWPKr2RhI4=);
+    /* background-repeat: round; */
+    background-size: cover;
+}
+p{
+    text-align: center;
+}
+.second-div{
+    height: 200px;
+    width: 350px;
+    background-color: yellowgreen;
+    margin: 0 auto;
+    margin-top: 20px;
+}
